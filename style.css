@@ -1,0 +1,146 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    body {
+        font-family: "Poppins", sans-serif;
+    }
+    
+    .header_main {
+        display: flex;
+        margin-bottom: 50px;
+    }
+    
+    .head_section_left {
+        width: 40%;
+        margin-top: 200px;
+        margin-left: 70px;
+    }
+    
+    .head_section_left h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    
+    .head_section_left p {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    
+    .head_section_left a {
+        background-image: linear-gradient(orange, tomato);
+        border-radius: 30px;
+        text-decoration: none;
+        padding: 15px 30px;
+    }
+    
+    .head_section_left img {
+        background-position: cover;
+    }
+    
+    .head_section_right {
+        width: 40%;
+        margin-top: 50px;
+    }
+    
+    .color_orange {
+        color: orange;
+    }
+    
+    .medial_sec_main {
+        background-color: #FFF4ED;
+        display: flex;
+    }
+    
+    .img_div {
+        width: 40%;
+        margin-left: 150px;
+    }
+    
+    .img_div img {
+        width: 250px;
+        margin-top: 100px;
+    }
+    
+    .content_div {
+        width: 30%;
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+    
+    .content_div h1 {
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+    
+    .content_div p {
+        margin-bottom: 50px;
+    }
+    
+    .content_div a {
+        background-image: linear-gradient(orange, tomato);
+        border-radius: 30px;
+        text-decoration: none;
+        padding: 15px 30px;
+    }
+    
+    .prodact_con_top {
+        width: 48%;
+        margin: auto;
+    }
+    
+    .prodact_con_top h1 {
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .food_main_div {
+        display: flex;
+        margin: 50px;
+    }
+    
+    .food_box {
+        width: 22%;
+        border-radius: 10px;
+        box-shadow: 3px 3px 5px 6px #ccc;
+        padding: 20px;
+        margin-top: 30px;
+        margin-left: 70px;
+    }
+    
+    .food_box img {
+        width: 250px;
+        margin-bottom: 20px;
+    }
+    
+    .like_follow_section {
+        margin-top: 100px;
+        display: flex;
+        width: 80%;
+        margin-left: 130px;
+        box-shadow: 3px 3px 5px 6px #ccc;
+        border-radius: 15px;
+        padding: 20px;
+    }
+    
+    .like_follow {
+        margin: auto;
+        padding: 40px;
+    }
+    
+    footer {
+        background-color: #0B0D17;
+        margin-top: 50px;
+        color: #FFF4ED;
+        padding: 50px;
+        text-align: center;
+    }
+    
+    footer h2 {
+        margin-bottom: 20px;
+    }
+    
+    .footer_text_color {
+        color: #FC8C48;
+    }
